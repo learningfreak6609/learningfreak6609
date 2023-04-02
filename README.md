@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
-I am Jatin (Student at IIT Delhi,Mathematics And Computing)
+I am Jatin (Student at IIT Delhi, Mathematics And Computing)
 
 
-* 👀 I’m interested in Computer technology, development ,Machine Learning,Data Science and competitive programming.
+* 👀 I’m interested in Computer technology, development , Machine Learning, Data Science and competitive programming.
 * 🌱 I’m currently looking to collaborate on Python projects.
 * 👯 Dm me to collaborate on projects related to deep learning,Machine Learning, Computer vision and web development.
 * 📫 How to reach me.. [My LinkedIn profile](https://www.linkedin.com/in/learningfreak6609/)
