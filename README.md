@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Jatin (Student at IIT Delhi,Mathematics And Computing)
 
+
+👀 I’m interested in technology, development and competitive programming
+🌱 I’m currently looking for open-source projects to contribute!
+💞️ I’m looking forward to collaborate on many projects with you, let's brainstorm new ideas!!!!
+📫 How to reach me.. My LinkedIn profile
 <!--
 **learningfreak6609/learningfreak6609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
