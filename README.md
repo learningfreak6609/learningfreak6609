@@ -3,13 +3,11 @@
 I am Jatin (Student at IIT Delhi,Mathematics And Computing)
 
 
--👀 I’m interested in Computer technology, development ,Machine Learning,Data Science and competitive programming.
-
--🌱 I’m currently looking to collaborate on python projects.
-
--💞️ Dm me to collaborate on projects related to deep learning,Machine Learning, Computer vision and web development.
-
--📫 How to reach me.. [https://www.linkedin.com/in/learningfreak6609/](url)
+* 👀 I’m interested in Computer technology, development ,Machine Learning,Data Science and competitive programming.
+* 🌱 I’m currently looking to collaborate on Python projects.
+* 👯 Dm me to collaborate on projects related to deep learning,Machine Learning, Computer vision and web development.
+* 📫 How to reach me.. [My LinkedIn profile](https://www.linkedin.com/in/learningfreak6609/)
+* Or mail at jk066634@gmail.com
 <!--
 **learningfreak6609/learningfreak6609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
