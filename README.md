@@ -1,4 +1,6 @@
-### Hi there 👋 I am Jatin (Student at IIT Delhi,Mathematics And Computing)
+### Hi there 👋 
+
+I am Jatin (Student at IIT Delhi,Mathematics And Computing)
 
 
 👀 I’m interested in technology, development and competitive programming
